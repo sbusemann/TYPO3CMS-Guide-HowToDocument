@@ -34,7 +34,7 @@ Commands to Render Documentation
 .. rst-class:: bignums-xxl
 
 
-#. Make dockrun_t3rd available in current terminal
+#. Make dockrun_t3rd available in current terminal.
 
    .. code-block:: bash
 
@@ -46,7 +46,9 @@ Commands to Render Documentation
       look at :ref:`render-troubleshooting-source`
       for alternatives.
 
-#. Run dockrun_t3rd
+#. Run dockrun_t3rd 
+   Please use this command in the parent folder of your documention (in many cases you will have a folder documentation, 
+   so you see this command one level above).
 
    .. code-block:: bash
 
